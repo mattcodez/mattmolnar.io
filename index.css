@@ -1,3 +1,15 @@
+BODY {
+  background-color: hsla(147, 89%, 45%, 1);
+}
+
 .main .column{
   text-align: center;
+}
+
+#profilePic img{
+  border-radius: 20px;
+}
+
+BUTTON{
+  background-color: hsla(220, 80%, 44%, 1) !important;
 }
