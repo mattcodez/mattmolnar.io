@@ -25,6 +25,10 @@ h1 {
   border: 4px solid black;
 }
 
+.mainDesc{
+  padding-top: 1em;
+}
+
 BUTTON{
   background-color: hsla(220, 80%, 44%, 1) !important;
 }
