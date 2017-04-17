@@ -1,5 +1,5 @@
 BODY {
-  background-color: hsl(203, 89%, 45%);
+  background-color: white;
   color: black;
   font-family: 'Poppins', sans-serif;
 }
@@ -31,4 +31,17 @@ h1 {
 
 BUTTON{
   background-color: hsla(220, 80%, 44%, 1) !important;
+}
+
+.row.content {
+  margin-top: 4em;
+}
+
+.project h3{
+  margin-bottom: 0;
+}
+
+.project p:last-of-type{
+  /*So I can use the same .row margin-top*/
+  margin-bottom: 0;
 }
