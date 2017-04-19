@@ -4,6 +4,10 @@ BODY {
   font-family: 'Poppins', sans-serif;
 }
 
+a {
+  color: #606c76;
+}
+
 .container:first-of-type{
   margin-top: 1em;
 }
