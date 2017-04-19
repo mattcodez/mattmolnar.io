@@ -5,7 +5,7 @@ BODY {
 }
 
 a {
-  color: #606c76;
+  color: orangered;
 }
 
 .container:first-of-type{
@@ -24,16 +24,11 @@ h1 {
 
 #profilePic img{
   border-radius: 50%;
-  border: 4px solid black;
   position: relative;
 }
 
 .mainDesc{
   padding-top: 1em;
-}
-
-BUTTON{
-  background-color: hsla(220, 80%, 44%, 1) !important;
 }
 
 .buttons .column{
@@ -42,7 +37,7 @@ BUTTON{
 
 .buttons .column a{
   width: 100%;
-  background-color: gray;
+  background-color: orangered;
   border: none;
 }
 
