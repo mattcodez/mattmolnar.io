@@ -33,6 +33,14 @@ BUTTON{
   background-color: hsla(220, 80%, 44%, 1) !important;
 }
 
+.buttons .column{
+  max-width: 100% !important;
+}
+
+.buttons .column a{
+  width: 100%;
+}
+
 .row.content {
   margin-top: 4em;
 }
